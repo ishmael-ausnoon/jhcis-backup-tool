@@ -16,7 +16,7 @@
 
 ## เวอร์ชันปัจจุบัน
 
-**v1.9.5** — Fullscreen & UI Consistency Edition
+**v1.9.6**
 
 ## ผู้พัฒนา
 
